@@ -1,0 +1,11 @@
+#map {
+	display: block;
+	margin: 0;
+	padding: 0;
+	position: absolute;				/* posición absoluta a navegador */
+	top: 5rem;						/* justo debajo del header */
+	left: 0;						/* ajusta a borde de navegador */
+	right: 0;						/* ajusta a borde de navegador */
+	bottom: 0;						/* ajusta a borde de navegador */
+	background: rgba(0,255,0,0.5);	/* verde si no hay mapa */
+}
