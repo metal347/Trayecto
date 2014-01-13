@@ -1,5 +1,5 @@
 # Trayecto
-Muestra la ruta en *Google Maps* de un punto a otro en coche. Guarda la ruta al cerrar l'aplicación y la recupera al volver abrirla.
+Muestra la ruta en *Google Maps* de un punto a otro en coche. Guarda la ruta al cerrar la aplicación y la recupera al volver abrirla.
 
 ### Lenguajes
 **Web App** creada con `HTML5`, `CSS3` y `JavaScript`. Diseño visual de *Firefox OS*.
