@@ -9,6 +9,3 @@ La **Web App** se compila a **Android** mediante **PhoneGap**, con el fichero `c
 
 ### Screenshot
 ![Mobile](https://raw.github.com/metal347/Trayecto/master/img/Screenshot.jpeg)
-
-### License
-**Trayecto** is licenced under the [MIT License](http://en.wikipedia.org/wiki/MIT_licence).
