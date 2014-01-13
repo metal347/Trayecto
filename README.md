@@ -8,4 +8,4 @@ Muestra la ruta en *Google Maps* de un punto a otro en coche. Guarda la ruta al 
 La **Web App** se compila a **Android** mediante **PhoneGap**, con el fichero `config.xml`, pero el código es compatible con cualquier plataforma que soporte los lenguajes.
 
 ### Screenshot
-![Mobile](https://raw.github.com/metal347/Trayecto/master/img/Screenshot.jpeg)
+![Mobile](img/Screenshot.jpeg)
